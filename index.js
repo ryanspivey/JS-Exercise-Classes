@@ -187,6 +187,7 @@ class Airplane {
   }
  }
   
+ 
   /*
     TASK 6
       - Write a ProjectManager class extending Instructor.
