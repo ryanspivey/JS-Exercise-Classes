@@ -186,7 +186,6 @@ class Airplane {
     return `${this.name} has begun sprint challenge on ${subject}`
   }
  }
-  
  
   /*
     TASK 6
